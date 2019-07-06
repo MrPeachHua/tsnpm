@@ -1,0 +1,25 @@
+{
+  "name": "tsnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrPeachHua/tsnpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrPeachHua/tsnpm/issues"
+  },
+  "homepage": "https://github.com/MrPeachHua/tsnpm#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "typescript": "^3.5.2"
+  }
+}
